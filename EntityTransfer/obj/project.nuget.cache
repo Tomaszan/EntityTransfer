@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "aVsTb32JBSP3wX0mJ/UZMkQLs2odGRdOOnhfBGqmzi8mirL/cl0T9rkzl5obMsksK44t/sF5eNwaLcSWk9+JsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kloem\\AppData\\Local\\Packages\\Microsoft.MinecraftUWP_8wekyb3d8bbwe\\LocalState\\games\\com.mojang\\minecraftWorlds\\rp2\\EntityTransfer\\EntityTransfer\\EntityTransfer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kloem\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\kloem\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "C:\\Users\\kloem\\.nuget\\packages\\system.text.encodings.web\\5.0.1\\system.text.encodings.web.5.0.1.nupkg.sha512",
+    "C:\\Users\\kloem\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
