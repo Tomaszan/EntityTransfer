@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using System.Linq;
 using static BedrockRpLib.PackPaths;
 
 
@@ -10,13 +11,8 @@ namespace EntityTransfer
     {
         static void Main(string[] args)
         {
-            var EntityRPFiles = Directory.GetFiles(rpEntityPath, "*", SearchOption.AllDirectories);
-
-            foreach (var item in EntityRPFiles)
-            {
-                Console.WriteLine(item);
-            }
-
+            // Create classes and functions for all RP parts, e.g. execution of RenderControllers function will copy over all associated render controllers
+            // Create function FindDotToQuote and FindQuoteToQuote to find needed strings, e.g. geometry
         }
     }
 }

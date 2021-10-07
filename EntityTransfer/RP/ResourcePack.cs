@@ -20,6 +20,7 @@ namespace EntityTransfer.RP
 
 
             // Create classes and functions for all RP parts, e.g. execution of RenderControllers function will copy over all associated render controllers
+            // Create function FindDotToQuote and FindQuoteToQuote to find needed strings, e.g. geometry
         }
     }
 }
